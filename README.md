@@ -8,4 +8,10 @@ this is sample readme
 
 #i am at branch work yes
 
+<<<<<<< HEAD
 i hope this isnt much of a problem
+=======
+update on the branch
+
+this is bound to cause trouble 
+>>>>>>> very-bad
