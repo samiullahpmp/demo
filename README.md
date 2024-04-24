@@ -8,6 +8,11 @@ this is sample readme
 
 #i am at branch work yes
 
+
+
+this is just new do
+
+
 <<<<<<< HEAD
 i hope this isnt much of a problem
 =======
